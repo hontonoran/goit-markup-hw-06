@@ -131,3 +131,6 @@ dist
 
 # macOS files
 .DS_Store
+
+# other files
+styles-old.css
