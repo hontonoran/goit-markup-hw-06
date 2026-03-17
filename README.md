@@ -1,8 +1,8 @@
-# Домашня робота. Тема 5. Форми і таблиці
+# Домашня робота. Тема 6. Адаптивний дизайн
 
 ## Ресурси
 
-[Design on Figma](https://www.figma.com/design/wuEpGhwCepGCOUw7mZFRac/Web-Studio--Version-5.0-?node-id=297035-1582&p=f&t=bQiqC2vtTnQgr3ge-0)
+[Design on Figma](https://www.figma.com/design/wuEpGhwCepGCOUw7mZFRac/Web-Studio--Version-5.0-?node-id=297046-1554&p=f&t=e0ds1FddkbnX7ubp-0)
 
 ## Cтруктура
 
